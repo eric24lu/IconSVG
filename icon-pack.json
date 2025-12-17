@@ -1,37 +1,34 @@
-[
-  {
-    "name": "CN",
-    "label": "China",
-    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/CN.png"
-  },
-  {
-    "name": "HK",
-    "label": "Hong Kong",
-    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/HK.png"
-  },
-  {
-    "name": "JP",
-    "label": "Japan",
-    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/JP.png"
-  },
-  {
-    "name": "SG",
-    "label": "Singapore",
-    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/SG.png"
-  },
-  {
-    "name": "US",
-    "label": "United States",
-    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/US.png"
-  },
-  {
-    "name": "UN",
-    "label": "United Nations",
-    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/UN.png"
-  },
-  {
-    "name": "YouTube",
-    "label": "YouTube",
-    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/YT.png"
-  }
-]
+{
+  "name": "IconSVG",
+  "description": "By eric24lu",
+  "icons": [
+    {
+      "name": "CN",
+      "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/CN.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/HK.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/JP.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/SG.png"
+    },
+    {
+      "name": "US",
+      "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/US.png"
+    },
+    {
+      "name": "UN",
+      "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/UN.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/YT.png"
+    }
+  ]
+}
