@@ -1,56 +1,30 @@
-{
-  "name": "IconSVG Collection",
-  "version": "1.0.0",
-  "description": "A collection of icons in SVG format",
-  "icons": [
-    {
-      "id": "cn",
-      "name": "China",
-      "category": "flags",
-      "file": "CN.svg",
-      "size": 664
-    },
-    {
-      "id": "hk",
-      "name": "Hong Kong",
-      "category": "flags",
-      "file": "HK.svg",
-      "size": 5366
-    },
-    {
-      "id": "jp",
-      "name": "Japan",
-      "category": "flags",
-      "file": "JP.svg",
-      "size": 206
-    },
-    {
-      "id": "sg",
-      "name": "Singapore",
-      "category": "flags",
-      "file": "SG.svg",
-      "size": 811
-    },
-    {
-      "id": "un",
-      "name": "United Nations",
-      "category": "flags",
-      "file": "UN.svg",
-      "size": 27186
-    },
-    {
-      "id": "us",
-      "name": "United States",
-      "category": "flags",
-      "file": "US.svg",
-      "size": 2250
-    },
-    {
-      "id": "yt",
-      "name": "YouTube",
-      "category": "brands",
-      "file": "YT.svg",
-      "size": 1109
-    }
-  ]
-}
+[
+  {
+    "name": "CN",
+    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/CN.svg"
+  },
+  {
+    "name": "HK",
+    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/HK.svg"
+  },
+  {
+    "name": "JP",
+    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/JP.svg"
+  },
+  {
+    "name": "SG",
+    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/SG.svg"
+  },
+  {
+    "name": "UN",
+    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/UN.svg"
+  },
+  {
+    "name": "US",
+    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/US.svg"
+  },
+  {
+    "name": "YT",
+    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/YT.svg"
+  }
+]
