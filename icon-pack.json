@@ -4,35 +4,35 @@
   "icons": [
     {
       "name": "CN",
-      "image": "CN.png"
+      "image": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/CN.png"
     },
     {
       "name": "HK",
-      "image": "HK.png"
+      "image": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/HK.png"
     },
     {
       "name": "JP",
-      "image": "JP.png"
+      "image": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/JP.png"
     },
     {
       "name": "SG",
-      "image": "SG.png"
+      "image": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/SG.png"
     },
     {
       "name": "US",
-      "image": "US.png"
+      "image": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/US.png"
     },
     {
       "name": "UN",
-      "image": "UN.png"
+      "image": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/UN.png"
     },
     {
       "name": "YouTube",
-      "image": "YT.png"
+      "image": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/YT.png"
     },
     {
       "name": "Bonjour",
-      "image": "bonjour.png"
+      "image": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/bonjour.png"
     }
   ]
 }
