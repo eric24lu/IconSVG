@@ -33,5 +33,10 @@
     "name": "YouTube",
     "label": "YouTube",
     "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/YouTube.png"
+  },
+  {
+    "name": "ChatGPT",
+    "label": "ChatGPT",
+    "url": "https://raw.githubusercontent.com/eric24lu/IconSVG/main/ChatGPT.png"
   }
 ]
