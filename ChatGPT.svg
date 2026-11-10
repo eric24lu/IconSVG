@@ -1,11 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
-<title id="title">OpenAI</title>
-<style>
-:root { color: #000000; color-scheme: light dark; }
-@media (prefers-color-scheme: dark) { :root { color: #f5f5f5; } }
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 1024 1024" overflow="hidden" role="img" aria-label="ChatGPT">
+<g transform="translate(512 512) scale(1.03125) translate(-512 -512)">
 <g transform="translate(0.000000,1024.000000) scale(0.100000,-0.100000)"
-class="mark" fill="currentColor" stroke="none">
+fill="#007AFF" stroke="none">
 <path d="M4335 10229 c-784 -80 -1472 -494 -1910 -1149 -88 -131 -207 -366
 -264 -519 l-39 -105 -109 -28 c-629 -164 -1148 -531 -1502 -1063 -228 -344
 -362 -699 -423 -1120 -20 -141 -17 -542 6 -690 73 -479 257 -893 563 -1273
@@ -43,5 +39,6 @@ c688 396 1074 625 1104 652 28 26 58 68 75 106 l29 62 3 1468 c1 807 5 1467 9
 -534 1321 0 123 15 315 25 326 2 2 476 -269 1052 -602 576 -332 1064 -612
 1083 -622 50 -26 167 -32 228 -12 27 9 613 342 1303 740 l1254 725 3 -501 c2
 -392 -1 -504 -10 -514z"/>
+</g>
 </g>
 </svg>
